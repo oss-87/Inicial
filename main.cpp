@@ -8,5 +8,7 @@ int main(int argc, char *argv[])
     // Aqui agrego una pequeña pregunta
     qDebug() << "Hola mundo";
 
+    qDebug() << "Mais alguma coisa?";
+
     return a.exec();
 }
